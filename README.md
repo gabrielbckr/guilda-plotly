@@ -7,9 +7,25 @@ de dados do toolchain plotly:
   * chart studio
   * dash
   * react-plotly
-    
 
+### Vantagens
+  * No CSS
+  * Interatividade
+  * Aproveitamento de código feito para exploração
+   no desenvolvimento do produto (tópico 17 do dataops)
+  * API Parecida com matplotlib
+  * Uso de ferramentas comuns a frameworks da 
+  data science 
+  * Lançamento em produção rápido de dashboard
 
+### Links Úteis
+  * Dash
+    * [Dash Gallery](https://dash-gallery.plotly.host/Portal/)
+    * [CallBacks](https://dash.plot.ly/getting-started-part-2)
+  * React
+    * [git](https://plot.ly/javascript/react/)
+    * [Exemplo](https://codepen.io/gabrielbckr/pen/qBEpYZB)
+  
 ### Estrutura de Arquivos
 
 .\
